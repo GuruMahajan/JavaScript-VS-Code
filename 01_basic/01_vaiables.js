@@ -5,6 +5,9 @@ accountCity = "Jaipur"
 let accountState
 
 console.log(accountId);
+console.log(accountEmail);
+console.log(accountPassword);
+console.log(accountCity);
 
 accountEmail = "mahajan@gmail.com"
 accountPassword = "4878"
