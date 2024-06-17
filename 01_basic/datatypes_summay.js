@@ -18,3 +18,16 @@ const bigNumber = 123456789101112n
 
 // Reference Data Type (Non-Primitive)
 // Arrray, Objects, Functions
+
+const heros = ["shaktiman" , "naagraj" , "doga"];
+
+let myObj = {
+    name : "Guru",
+    age : 21 
+}
+
+const myFunction = function () {
+    console.log("Hello World");
+}
+
+console.log(typeof outsideTemp);
